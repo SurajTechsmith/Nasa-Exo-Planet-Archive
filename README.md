@@ -51,7 +51,3 @@ Check out the live demo of the app at [https://nasa-exo-planet-archive.vercel.ap
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to enhance the app, feel free to create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
