@@ -46,7 +46,7 @@ The pagination controls at the bottom of the page enable you to navigate through
 
 ## Live Demo
 
-Check out the live demo of the app at [https://nasa-exo-planet-archive.vercel.app/](https://github.com/SurajTechsmith/Nasa-Exo-Planet-Archive).
+Check out the live demo of the app at [https://nasa-exo-planet-archive.vercel.app/](https://nasa-exo-planet-archive.vercel.app).
 
 ## Contributing
 
